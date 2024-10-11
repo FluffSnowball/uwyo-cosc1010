@@ -1,8 +1,8 @@
-# Your Name Here
+# Ben Woolsey
 # UWYO COSC 1010
-# Submission Date
+# 10/11/24
 # HW 01
-# Lab Section: 
+# Lab Section: 11
 # Sources, people worked with, help given to: 
 # your
 # comments
