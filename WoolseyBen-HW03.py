@@ -52,14 +52,12 @@ while True:
             if current_day == 6:
                 current_day = 0
             else: 
-                current_day += 1
-
-    if day > len(full_year[str(month)]):
-        print("Not a valid day")
-        continue            
+                current_day += 1       
     
     month = int(month)
-
+    if int(day) > len(full_year[str(month)]):
+        print("Not a valid day")
+        continue     
     
 
     print(f"Your Input: {month}/{day}/{year}. Day of the week: {full_year[str(month)][int(day)]}")
